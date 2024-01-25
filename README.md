@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jinesh Patel
 - 👀 I’m interested in Computer Science, Maths, Modern & Astro- Physics
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Engineering Stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 Ping me at https://www.linkedin.com/in/jineshpatel11
 
